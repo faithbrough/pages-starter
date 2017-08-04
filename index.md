@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Faith's Fitness Blog
+
 quote: The distance between your dreams and reality is called action
 
 
