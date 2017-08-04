@@ -1,13 +1,8 @@
 ---
 layout: default
-title: Getting Started
-quote: The essential part of creativity is not being afraid to fail.
-cite: Edwin H. Land
----
+title: Faith's Fitness Blog
+quote: The distance between your dreams and reality is called action
 
-This example is just meant to get you started and show you a little of what's
-possible with GitHub Pages. In just 3 simple steps, you will have your own
-website.
 
 1. [Create a Github account](https://github.com/join)
 2. [Fork this repository](https://github.com/chesshacker/pages-starter/fork)
@@ -29,9 +24,3 @@ That's it! You should now have a website of your own.
 
 https://`your github username`.github.io/pages-starter/
 
-There's so much more you can do with GitHub Pages, so don't stop here.
-Explore the code in this project and start making it your own.
-Continue on to the [Resources]({{ "/resources" | prepend: site.baseurl }})
-section to learn more about GitHub Pages and other handy tools.
-
-If you have questions, please let me know. I am glad to help!
