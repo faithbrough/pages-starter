@@ -1,13 +1,7 @@
 ---
-layout: default
-title: Faith's Fitness Blog
+<h1>Faith's Fitness Blog</h1>
 
-quote: The distance between your dreams and reality is called action
-
-
-1. [Create a Github account](https://github.com/join)
-2. [Fork this repository](https://github.com/chesshacker/pages-starter/fork)
-3. Edit the `_config.yml` file
+ The distance between your dreams and reality is called action
 
 {% highlight yaml %}
 title: {{ site.title }}
